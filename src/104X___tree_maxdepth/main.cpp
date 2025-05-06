@@ -24,7 +24,7 @@ public:
     }
 
     //递归求解（广度优先搜索
-    int maxDepth_recursion(TreeNode* root) {
+    int CalcLeafSeq_recursion(TreeNode* root) {
         if (root == nullptr) return 0;
         queue<TreeNode*> Q;
         Q.push(root);
@@ -52,7 +52,7 @@ int main()
     TreeNode* node7 = new TreeNode(7); TreeNode* node2 = new TreeNode(2, node3, node4);
     TreeNode* node1 = new TreeNode(1, node2, node7);
 
-    cout << "maxDepth:" << solution.maxDepth_recursion(node1) << endl;
+    cout << "maxDepth:" << solution.CalcLeafSeq_recursion(node1) << endl;
     return 0;
 }
 

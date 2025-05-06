@@ -1,4 +1,4 @@
-project(206X.list_reverse)
+project(872X___trees_with_similar_leaves)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

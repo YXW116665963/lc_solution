@@ -1,4 +1,4 @@
-project(0XXX.solution_template)
+project(104X___tree_maxdepth)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)
