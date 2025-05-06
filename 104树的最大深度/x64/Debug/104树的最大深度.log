@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\lc_solution\104树的最大深度\main.cpp(33,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  104树的最大深度.vcxproj -> D:\lc_solution\x64\Debug\104树的最大深度.exe
