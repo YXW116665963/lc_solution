@@ -4,3 +4,8 @@ add_subdirectory(0XXX___solution_template)
 add_subdirectory(104X___tree_maxdepth)
 add_subdirectory(206X___list_reverse)
 add_subdirectory(872X___trees_with_similar_leaves)
+
+add_subdirectory(1137___tebonacci_sequence)
+add_subdirectory(746X___climb_stairs)
+add_subdirectory(700X___binary_search_tree)
+add_subdirectory(374X___guess_num)
