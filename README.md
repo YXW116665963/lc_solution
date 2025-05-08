@@ -6,9 +6,9 @@ pro naming conventions：
 
 A_B_CDEF_XXX...
 
-A：难易程度，S为简单。
+A：难易程度。S为简单。
 
-B：是否需要掌握。
+B：是否需要掌握。Y为需要。
 
 CDEF：题号，最多4位，不足的后面补"X"。
 
