@@ -1,4 +1,4 @@
-project(700X___binary_search_tree)
+project(S_N_1137___tebonacci_sequence)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

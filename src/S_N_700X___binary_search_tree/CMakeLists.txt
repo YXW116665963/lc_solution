@@ -1,4 +1,4 @@
-project(872X___trees_with_similar_leaves)
+project(S_N_700X___binary_search_tree)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

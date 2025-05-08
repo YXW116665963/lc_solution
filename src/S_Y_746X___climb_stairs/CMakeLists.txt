@@ -1,4 +1,4 @@
-project(746X___climb_stairs)
+project(S_Y_746X___climb_stairs)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

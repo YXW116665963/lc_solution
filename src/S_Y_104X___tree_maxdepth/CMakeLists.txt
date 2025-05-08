@@ -1,4 +1,4 @@
-project(1137___tebonacci_sequence)
+project(S_Y_104X___tree_maxdepth)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

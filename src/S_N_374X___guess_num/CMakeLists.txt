@@ -1,4 +1,4 @@
-project(374X___guess_num)
+project(S_N_374X___guess_num)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

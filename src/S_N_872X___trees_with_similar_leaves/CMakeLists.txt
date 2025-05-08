@@ -1,4 +1,4 @@
-project(104X___tree_maxdepth)
+project(S_N_872X___trees_with_similar_leaves)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)

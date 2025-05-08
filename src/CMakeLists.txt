@@ -1,11 +1,13 @@
 include_directories(${CMAKE_CURRENT_SOURCE_DIR}/0XXX___solution_template)
 
 add_subdirectory(0XXX___solution_template)
-add_subdirectory(104X___tree_maxdepth)
-add_subdirectory(206X___list_reverse)
-add_subdirectory(872X___trees_with_similar_leaves)
+add_subdirectory(S_N_374X___guess_num)
+add_subdirectory(S_N_700X___binary_search_tree)
+add_subdirectory(S_N_872X___trees_with_similar_leaves)
+add_subdirectory(S_N_1137___tebonacci_sequence)
 
-add_subdirectory(1137___tebonacci_sequence)
-add_subdirectory(746X___climb_stairs)
-add_subdirectory(700X___binary_search_tree)
-add_subdirectory(374X___guess_num)
+
+
+add_subdirectory(S_Y_104X___tree_maxdepth)
+add_subdirectory(S_Y_206X___list_reverse)
+add_subdirectory(S_Y_746X___climb_stairs)

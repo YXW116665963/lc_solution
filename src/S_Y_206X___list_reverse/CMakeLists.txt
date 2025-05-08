@@ -1,4 +1,4 @@
-project(206X___list_reverse)
+project(S_Y_206X___list_reverse)
 
 # Define a variable containing a list of source files for the project
 file(GLOB_RECURSE HEADERS *.h)
