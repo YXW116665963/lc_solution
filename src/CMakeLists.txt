@@ -10,4 +10,5 @@ add_subdirectory(S_N_1137___tebonacci_sequence)
 
 add_subdirectory(S_Y_104X___tree_maxdepth)
 add_subdirectory(S_Y_206X___list_reverse)
+add_subdirectory(S_Y_338X___bit_counting)
 add_subdirectory(S_Y_746X___climb_stairs)
