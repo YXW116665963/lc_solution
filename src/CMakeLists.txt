@@ -5,10 +5,15 @@ add_subdirectory(S_N_374X___guess_num)
 add_subdirectory(S_N_700X___binary_search_tree)
 add_subdirectory(S_N_872X___trees_with_similar_leaves)
 add_subdirectory(S_N_1137___tebonacci_sequence)
-
+add_subdirectory(S_N_1768___alternate_merge_string)
+add_subdirectory(S_N_1431___most_candy)
+add_subdirectory(S_N_605X___planting_flowers)
 
 
 add_subdirectory(S_Y_104X___tree_maxdepth)
 add_subdirectory(S_Y_206X___list_reverse)
 add_subdirectory(S_Y_338X___bit_counting)
 add_subdirectory(S_Y_746X___climb_stairs)
+add_subdirectory(S_Y_1071___greatest_common_divisor_of_string)
+
+
