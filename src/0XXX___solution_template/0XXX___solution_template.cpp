@@ -3,9 +3,7 @@
 class Solution {
 public:
 
-};
-Solution solution;
-
+}solution;
 
 int main() {
 
