@@ -1,0 +1,9 @@
+
+add_subdirectory(S_Y_104X___tree_maxdepth)
+add_subdirectory(S_Y_206X___list_reverse)
+add_subdirectory(S_Y_338X___bit_counting)
+add_subdirectory(S_Y_746X___climb_stairs)
+add_subdirectory(S_Y_1071___greatest_common_divisor_of_string)
+add_subdirectory(S_Y_283X___move_zero)
+
+
